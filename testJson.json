@@ -1,0 +1,61 @@
+{
+	"2022":[
+{"month":"February", "date":"28","event":" الاسراء و المعراج"},
+{"month":"March", "date":"5","event":" بداية شعبان"},
+{"month":"April", "date":"2","event":" اول ايام رمضان"},
+{"month":"April", "date":"28","event":" ليلة القدر"},
+{"month":"May", "date":"1","event":"عيد الفطر"},
+{"month":"June", "date":"30","event":"دو الحجة"},
+{"month":"July", "date":"7","event":" الحج "},
+{"month":"July", "date":"8","event":" عرفة "},
+{"month":"July", "date":"9","event":" عيد الاضحى "},
+{"month":"July", "date":"30","event":" فاتح محرم "} ,
+    {"month":"August", "date":"9","event":" عاشوراء "} ,
+    {"month":"October", "date":"8","event":" المولد النبوي "} ,
+
+{"month":"فبراير", "date":"28","event":" الاسراء و المعراج"},
+{"month":"مارس", "date":"5","event":" بداية شعبان"},
+{"month":"أبريل", "date":"2","event":" اول ايام رمضان"},
+{"month":"أبريل", "date":"28","event":" ليلة القدر"},
+{"month":"ماي", "date":"1","event":"عيد الفطر"},
+{"month":"يونيو", "date":"30","event":"دو الحجة"},
+{"month":"يوليوز", "date":"7","event":" الحج "},
+{"month":"يوليوز", "date":"8","event":" عرفة "},
+{"month":"يوليوز", "date":"9","event":" عيد الاضحى "},
+{"month":"يوليوز", "date":"30","event":" فاتح محرم "} ,
+    {"month":"غشت", "date":"9","event":" عاشوراء "} ,
+    {"month":"أكتوبر", "date":"8","event":" المولد النبوي "} ,
+
+    
+{"month":"Février", "date":"28","event":" الاسراء و المعراج"},
+{"month":"Mars", "date":"5","event":" بداية شعبان"},
+{"month":"Avril", "date":"2","event":" اول ايام رمضان"},
+{"month":"Avril", "date":"28","event":" ليلة القدر"},
+{"month":"Mai", "date":"1","event":"عيد الفطر"},
+{"month":"Juin", "date":"30","event":"دو الحجة"},
+{"month":"Juillet", "date":"7","event":" الحج "},
+{"month":"Juillet", "date":"8","event":" عرفة "},
+{"month":"Juillet", "date":"9","event":" عيد الاضحى "},
+{"month":"Juillet", "date":"30","event":" فاتح محرم "} ,
+    {"month":"Août", "date":"9","event":" عاشوراء "} ,
+    {"month":"Octobre", "date":"8","event":" المولد النبوي "} 
+
+],
+
+
+    "٢٠٢٢":[
+
+{"month":"فبراير", "date":"28","event":" الاسراء و المعراج"},
+{"month":"مارس", "date":"5","event":" بداية شعبان"},
+{"month":"أبريل", "date":"2","event":" اول ايام رمضان"},
+{"month":"أبريل", "date":"28","event":" ليلة القدر"},
+{"month":"مايو", "date":"1","event":"عيد الفطر"},
+{"month":"يونيو", "date":"30","event":"دو الحجة"},
+{"month":"يوليوز", "date":"7","event":" الحج "},
+{"month":"يوليوز", "date":"8","event":" عرفة "},
+{"month":"يوليوز", "date":"9","event":" عيد الاضحى "},
+{"month":"يوليوز", "date":"30","event":" فاتح محرم "} ,
+    {"month":"أغسطس", "date":"9","event":" عاشوراء "} ,
+    {"month":"أكتوبر", "date":"8","event":" المولد النبوي "} 
+     ]
+}
